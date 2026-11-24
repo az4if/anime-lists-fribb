@@ -73555,6 +73555,13 @@
   "imdb_id" : [ "tt22868844" ],
   "themoviedb_id" : {
     "movie" : [ 812225 ]
+  },
+  "tvdb_id" : 331753,
+  "season" : {
+    "tvdb" : 0
+  },
+  "episode_offset" : {
+    "tvdb" : 25
   }
 }, {
   "anidb_id" : 16177,

@@ -564,7 +564,7 @@
   "ids" : [ 420, 39489 ]
 }, {
   "name" : "Garou Densetsu: The Motion Picture",
-  "ids" : [ 504, 825, 1009, 1799, 1800, 35204, 48582, 58047, 61543, 63567, 64011, 64289, 64810, 64876, 65054, 65232 ]
+  "ids" : [ 504, 825, 1009, 1799, 1800, 35204, 42249, 48582, 48735, 50608, 54918, 54932, 57751, 58047, 59088, 59091, 61543, 63567, 64011, 64289, 64810, 64876, 65054, 65232 ]
 }, {
   "name" : "Weiß Kreuz Glühen",
   "ids" : [ 446, 447, 1024 ]
@@ -798,7 +798,7 @@
   "ids" : [ 62004 ]
 }, {
   "name" : "Poke Taiki",
-  "ids" : [ 62013 ]
+  "ids" : [ 62013, 64650 ]
 }, {
   "name" : "Sora to Umi no Michibiki Countdown CMs",
   "ids" : [ 62141 ]
@@ -838,9 +838,6 @@
 }, {
   "name" : "Box Party",
   "ids" : [ 64641 ]
-}, {
-  "name" : "Poke Taiki (2026)",
-  "ids" : [ 64650 ]
 }, {
   "name" : "Pokemon: Wild Card",
   "ids" : [ 64895 ]
@@ -1497,7 +1494,7 @@
   "ids" : [ 213, 214, 215, 216 ]
 }, {
   "name" : "Tekken",
-  "ids" : [ 537, 10702, 51347 ]
+  "ids" : [ 537, 10702, 51347, 64793 ]
 }, {
   "name" : "Geneshaft",
   "ids" : [ 909, 56864 ]
@@ -2163,7 +2160,7 @@
   "ids" : [ 63, 1817 ]
 }, {
   "name" : "Chou Denji Robo Combattler V",
-  "ids" : [ 1068, 1069, 2816 ]
+  "ids" : [ 1068, 1069, 2816, 64686 ]
 }, {
   "name" : "Oban Star-Racers",
   "ids" : [ 1212, 9361 ]
@@ -3333,7 +3330,7 @@
   "ids" : [ 19909, 35022, 45562 ]
 }, {
   "name" : "Hidamari Sketch",
-  "ids" : [ 1852, 3165, 3604, 6984, 7062, 9331, 9563, 9776, 10737, 11079, 11237, 11239, 11339, 15911, 16732, 17739, 19029, 20039, 20391, 23269, 24765, 28911, 28913, 28915, 32555, 32924, 33034, 33035, 33119, 34914, 35285, 35522, 36805, 41471 ]
+  "ids" : [ 1852, 3165, 3604, 6984, 7062, 9331, 9563, 9776, 10737, 11079, 11237, 11239, 11339, 15911, 16732, 17739, 19029, 20039, 20391, 23269, 24765, 28911, 28913, 28915, 31953, 32555, 32924, 33034, 33035, 33119, 34277, 34914, 35285, 35522, 36805, 41471 ]
 }, {
   "name" : "Katekyou Hitman Reborn!",
   "ids" : [ 1604, 8532, 9023, 32878, 33740 ]
@@ -3348,7 +3345,7 @@
   "ids" : [ 3576, 5725 ]
 }, {
   "name" : "iDOLM@STER Xenoglossia",
-  "ids" : [ 1694, 3406, 4033, 10278, 11889, 14835, 15649, 15781, 17437, 18781, 21073, 21409, 23587, 23871, 29801, 30218, 30344, 31894, 32174, 34257, 34489, 34915, 35081, 35346, 35805, 35883, 36186, 36500, 36529, 36942, 37124, 37422, 37424, 37976, 38203, 38211, 38271, 38562, 38767, 39046, 39654, 40174, 40477, 40630, 40753, 41299, 42385, 42882, 49661, 49735, 50159, 51234, 51509, 51536, 51842, 54758, 55393, 55517, 55802, 58302, 58823, 58824, 58825, 58826, 60045, 61156, 61456, 62833, 62959, 63070, 63319, 63574, 63758, 63961, 64071, 64177, 64209, 64256, 64295, 64716, 64809, 65030, 65088 ]
+  "ids" : [ 1694, 3406, 4033, 10278, 11889, 14835, 15649, 15781, 17437, 18781, 21073, 21409, 23587, 23871, 29801, 30218, 30344, 31894, 32174, 34257, 34489, 34915, 35081, 35346, 35805, 35883, 36186, 36500, 36529, 36942, 37124, 37422, 37424, 37976, 38203, 38211, 38271, 38562, 38767, 39046, 39654, 40174, 40477, 40630, 40753, 41299, 42385, 42882, 49661, 49735, 50159, 51234, 51509, 51536, 51842, 54758, 55393, 55517, 55802, 58302, 58823, 58824, 58825, 58826, 60045, 61156, 61456, 62833, 62959, 63070, 63319, 63574, 63758, 63961, 64071, 64177, 64209, 64256, 64295, 64716, 64809, 65030, 65088, 65464 ]
 }, {
   "name" : "Lucky☆Star",
   "ids" : [ 1887, 3080, 4472, 9861, 9874, 9875, 17637, 30547, 36686, 55315 ]
@@ -6461,9 +6458,6 @@
   "name" : "Alice in Dreamland",
   "ids" : [ 31941, 49367 ]
 }, {
-  "name" : "New Game!",
-  "ids" : [ 31953, 34277 ]
-}, {
   "name" : "Boku no Hero Academia",
   "ids" : [ 31964, 33486, 33929, 35262, 35459, 36456, 36896, 38408, 38699, 39565, 41587, 42603, 43683, 44200, 49918, 50532, 51781, 54624, 54789, 56196, 56685, 57519, 60098, 60593, 60645, 61149, 61437, 61942, 63130, 64107 ]
 }, {
@@ -7191,7 +7185,7 @@
   "ids" : [ 41361, 51605, 53733 ]
 }, {
   "name" : "Zhu Zhu Xia: Da Nao Huang Gong",
-  "ids" : [ 38117, 38118, 38119, 38120, 38121, 38122, 38123, 38124, 38125, 38126, 38127, 38128, 38129, 38131, 38132, 38133, 38134, 38135, 38136, 38137, 38138, 38140, 39798, 41635, 44353 ]
+  "ids" : [ 38117, 38118, 38119, 38120, 38121, 38122, 38123, 38124, 38125, 38126, 38127, 38128, 38129, 38131, 38132, 38133, 38134, 38135, 38136, 38137, 38138, 38140, 39798, 40182, 41635, 44353 ]
 }, {
   "name" : "Evil or Live",
   "ids" : [ 36245, 36932 ]
@@ -7611,7 +7605,7 @@
   "ids" : [ 38250, 53448, 56695, 57520, 58325 ]
 }, {
   "name" : "Xi Xing Ji",
-  "ids" : [ 38490, 41215, 42209, 49098, 51791, 51834, 54033, 56157, 58001, 59624, 61752, 63006, 63299 ]
+  "ids" : [ 38490, 41215, 42209, 49098, 51791, 51834, 54033, 56157, 58001, 59624, 61752, 63006, 63299, 65141 ]
 }, {
   "name" : "Moshi Juexing: Ruqin",
   "ids" : [ 45444, 45445, 45447 ]
@@ -8022,7 +8016,7 @@
   "ids" : [ 40423, 42090, 62115 ]
 }, {
   "name" : "Peter Grill to Kenja no Jikan",
-  "ids" : [ 40436, 50348 ]
+  "ids" : [ 40436, 50348, 63757 ]
 }, {
   "name" : "Shen Bing Xiaojiang",
   "ids" : [ 44689, 44691, 44692 ]
@@ -8072,11 +8066,8 @@
   "name" : "48789",
   "ids" : [ 48789 ]
 }, {
-  "name" : "Nanimo Shite Agerarenai",
-  "ids" : [ 40147 ]
-}, {
   "name" : "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-  "ids" : [ 40595, 49981 ]
+  "ids" : [ 40595, 49981, 65259 ]
 }, {
   "name" : "Shuke He Beita",
   "ids" : [ 43662, 45080, 57455 ]
@@ -8263,9 +8254,6 @@
 }, {
   "name" : "Edens Zero",
   "ids" : [ 42192, 50002, 54917 ]
-}, {
-  "name" : "Tokyo Revengers",
-  "ids" : [ 42249, 48735, 50608, 54918, 54932, 57751, 59088, 59091 ]
 }, {
   "name" : "Cyberpunk: Edgerunners",
   "ids" : [ 42310, 53013, 61990 ]
@@ -9312,7 +9300,7 @@
   "ids" : [ 47790, 56732 ]
 }, {
   "name" : "Bocchi the Rock!",
-  "ids" : [ 47917, 55357, 59806, 61006 ]
+  "ids" : [ 47917, 55357, 59806, 61006, 65302 ]
 }, {
   "name" : "Ore, Tsushima",
   "ids" : [ 48252, 49392, 51299 ]
@@ -9633,7 +9621,7 @@
   "ids" : [ 50416, 55089, 60548 ]
 }, {
   "name" : "Mato Seihei no Slave",
-  "ids" : [ 50392, 58505 ]
+  "ids" : [ 50392, 58505, 64726 ]
 }, {
   "name" : "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming",
   "ids" : [ 50421, 54684, 58779 ]
@@ -10148,6 +10136,9 @@
   "name" : "Re:Monster",
   "ids" : [ 56690, 62567 ]
 }, {
+  "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+  "ids" : [ 56923, 64553 ]
+}, {
   "name" : "Raise wa Tanin ga Ii",
   "ids" : [ 56964, 60167 ]
 }, {
@@ -10356,7 +10347,7 @@
   "ids" : [ 59002, 61534 ]
 }, {
   "name" : "Tamon-kun Ima Docchi!?",
-  "ids" : [ 59047, 62317 ]
+  "ids" : [ 59047, 62317, 65508 ]
 }, {
   "name" : "Princession Orchestra",
   "ids" : [ 59078, 63775 ]
@@ -10703,9 +10694,6 @@
   "name" : "Ushiro no Shoumen Kamui-san",
   "ids" : [ 63468, 64543 ]
 }, {
-  "name" : "Zhu Zhu Xia: Bukesiyi de Shijie",
-  "ids" : [ 40182 ]
-}, {
   "name" : "Dark Summoner to Dekiteiru",
   "ids" : [ 63509, 65169 ]
 }, {
@@ -10737,22 +10725,13 @@
   "ids" : [ 64001, 64217, 64887 ]
 }, {
   "name" : "Salangui Hachyuping",
-  "ids" : [ 59874 ]
-}, {
-  "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
-  "ids" : [ 64553 ]
-}, {
-  "name" : "56923",
-  "ids" : [ 56923 ]
+  "ids" : [ 59874, 64682 ]
 }, {
   "name" : "Hokuto no Ken: Kenougun Zako-tachi no Banka",
   "ids" : [ 64378 ]
 }, {
   "name" : "Dragon Heart: Reikai Tanbouki",
   "ids" : [ 61077 ]
-}, {
-  "name" : "Mato Seihei no Slave 3",
-  "ids" : [ 64726 ]
 }, {
   "name" : "Sai Ngoi",
   "ids" : [ 52841, 62497 ]
@@ -10763,9 +10742,6 @@
   "name" : "Nezumi-kun no Chokki (TV)",
   "ids" : [ 62495, 64789 ]
 }, {
-  "name" : "Salangui Hachyuping: Golaeboseogui Jeonseol",
-  "ids" : [ 64682 ]
-}, {
   "name" : "Bawang Long Lei Qi",
   "ids" : [ 60515, 60516 ]
 }, {
@@ -10774,12 +10750,6 @@
 }, {
   "name" : "Ghost Meets Gal!",
   "ids" : [ 64718 ]
-}, {
-  "name" : "Kuang Wang 2",
-  "ids" : [ 65141 ]
-}, {
-  "name" : "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season III",
-  "ids" : [ 65259 ]
 }, {
   "name" : "Doraon Yeongung Hong Gildong",
   "ids" : [ 43702 ]
@@ -11003,6 +10973,9 @@
   "name" : "Astro Boy: Tetsuwan Atom - Getsumen Kichi - Kieta Robot no Nazo",
   "ids" : [ 39362 ]
 }, {
+  "name" : "Atashin'chi Next 3rd Season",
+  "ids" : [ 65451 ]
+}, {
   "name" : "Byeonsinjadongcha Tobot",
   "ids" : [ 48217, 48218, 52737, 52738, 62449, 62450, 62451, 62452, 62453, 62454, 62455, 62456, 62757, 62758, 62759, 62760, 62761, 62762, 62763, 62764, 62765, 62766, 62767, 62768, 62769, 62770, 62771, 62772, 62773, 62774, 62775, 62776, 64130 ]
 }, {
@@ -11138,6 +11111,9 @@
   "name" : "Beuledeu Ibalso",
   "ids" : [ 48228, 53371, 53372, 58560, 59882, 60914, 62461 ]
 }, {
+  "name" : "Beuledeu Ibalso 5: Akdang Daesodong",
+  "ids" : [ 65461 ]
+}, {
   "name" : "Xiaohe Li Beva",
   "ids" : [ 46717, 46718, 46719 ]
 }, {
@@ -11185,9 +11161,6 @@
 }, {
   "name" : "Bo & To's Family",
   "ids" : [ 53042, 53043, 53044, 58617 ]
-}, {
-  "name" : "Bocchi the Rock! Movie: Hoshi no Ashiato",
-  "ids" : [ 65302 ]
 }, {
   "name" : "Bodhi Yu Haoyou",
   "ids" : [ 45721, 45722, 45723, 45724 ]
@@ -11301,10 +11274,7 @@
   "ids" : [ 55353, 55373 ]
 }, {
   "name" : "Cha A Er Zhong",
-  "ids" : [ 46864, 46865, 46866, 46867, 46868, 46869, 46870, 46871, 46872, 56334, 59381 ]
-}, {
-  "name" : "Cha A Er Zhong 6th Season",
-  "ids" : [ 65256 ]
+  "ids" : [ 46864, 46865, 46866, 46867, 46868, 46869, 46870, 46871, 46872, 56334, 59381, 65256 ]
 }, {
   "name" : "Chameleon (2022)",
   "ids" : [ 52510, 57326, 60504 ]
@@ -11398,9 +11368,6 @@
 }, {
   "name" : "Chongwu Zhuangyuan Jizhen Shi",
   "ids" : [ 46285, 46286 ]
-}, {
-  "name" : "Chou Denji Robo Combattler V: 50-shuunen Kinen Animation",
-  "ids" : [ 64686 ]
 }, {
   "name" : "The Urotsuki",
   "ids" : [ 1353, 2341, 2342, 2343, 2344, 2345, 2359, 2360, 55309 ]
@@ -11553,10 +11520,7 @@
   "ids" : [ 62457, 62458, 62459, 62460 ]
 }, {
   "name" : "Dinoster: Gonglyongsuhodae",
-  "ids" : [ 57117, 58933, 62680 ]
-}, {
-  "name" : "Dinoster: Gonglyongsuhodae 4th Season",
-  "ids" : [ 65216 ]
+  "ids" : [ 57117, 58933, 62680, 65216 ]
 }, {
   "name" : "Discipline",
   "ids" : [ 2432, 7456 ]
@@ -11642,8 +11606,8 @@
   "name" : "43449",
   "ids" : [ 43449 ]
 }, {
-  "name" : "Ego",
-  "ids" : [ 63893 ]
+  "name" : "EGO",
+  "ids" : [ 65501 ]
 }, {
   "name" : "Seisen Gakuin",
   "ids" : [ 4492, 4699 ]
@@ -11798,17 +11762,17 @@
   "name" : "Ganbare! Kobo-chan Gyuunyuu",
   "ids" : [ 39367 ]
 }, {
-  "name" : "Gangcheolsobangdae Fire Robo Z",
-  "ids" : [ 64679 ]
-}, {
-  "name" : "48333",
-  "ids" : [ 48333 ]
+  "name" : "Steel Fire Brigade Fire Robo",
+  "ids" : [ 48333, 64679 ]
 }, {
   "name" : "MiniGARO",
   "ids" : [ 34629, 34630 ]
 }, {
   "name" : "Garou Densetsu x Street Fighter",
   "ids" : [ 62976 ]
+}, {
+  "name" : "Garou Densetsu: CotW - Laocorn",
+  "ids" : [ 65491 ]
 }, {
   "name" : "Hotaru wa Inakatta",
   "ids" : [ 50784, 51493, 53338 ]
@@ -11823,13 +11787,16 @@
   "ids" : [ 2590, 8294 ]
 }, {
   "name" : "Yuanshen: Hai Dengjie CM Duanpian - Ming Xiao Huanmeng",
-  "ids" : [ 54312, 55585, 55586, 55587, 56273, 58537, 58696, 59301, 59374, 60421, 60700, 60701, 61919, 62022, 62107, 62306, 62574, 62997, 63297, 63365, 63659, 63660, 63661, 63662, 63663, 64473, 65004 ]
+  "ids" : [ 54312, 55585, 55586, 55587, 56273, 58537, 58696, 59301, 59374, 60421, 60700, 60701, 61919, 62022, 62107, 62306, 62574, 62997, 63297, 63365, 63659, 63660, 63661, 63662, 63663, 64473, 65004, 65509, 65510 ]
 }, {
   "name" : "Geo Mecha: Beast Guardian",
   "ids" : [ 48326, 49070 ]
 }, {
   "name" : "GG Dou",
   "ids" : [ 47122, 49116 ]
+}, {
+  "name" : "Ginga Nagareboshi Gin (OVA)",
+  "ids" : [ 65499 ]
 }, {
   "name" : "Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi Season 2",
   "ids" : [ 63413 ]
@@ -12026,11 +11993,8 @@
   "name" : "Hello Kitty-tachi to Utaou! Kodomo no Uta: Rock'n Omelette",
   "ids" : [ 52144 ]
 }, {
-  "name" : "Hello! Pikmin",
-  "ids" : [ 65299, 65301 ]
-}, {
-  "name" : "27539",
-  "ids" : [ 27539 ]
+  "name" : "Pikmin Short Movies",
+  "ids" : [ 27539, 65299, 65301 ]
 }, {
   "name" : "Hello! Pu Xingren",
   "ids" : [ 47243, 47244 ]
@@ -12599,9 +12563,6 @@
   "name" : "Kung Fu Xing Mao",
   "ids" : [ 45260 ]
 }, {
-  "name" : "Kurenazumu Yakusoku",
-  "ids" : [ 63757 ]
-}, {
   "name" : "Kuroinu: Kedakaki Seijo wa Hakudaku ni Somaru",
   "ids" : [ 11827, 49095 ]
 }, {
@@ -12661,9 +12622,6 @@
 }, {
   "name" : "Let's Roll, Cinnamoroll!",
   "ids" : [ 61151, 64537 ]
-}, {
-  "name" : "Leyuan You Meng Ji",
-  "ids" : [ 60834, 63354 ]
 }, {
   "name" : "Liangyao",
   "ids" : [ 62949, 62950 ]
@@ -12773,6 +12731,9 @@
   "name" : "MARO17: Utakata feat. TETSU",
   "ids" : [ 56703, 60380, 61939 ]
 }, {
+  "name" : "MARO17: Ichizu ni Migake Kokoro mo Karada mo",
+  "ids" : [ 65497 ]
+}, {
   "name" : "Maru-neun Gangjwi (Music)",
   "ids" : [ 54422, 62539 ]
 }, {
@@ -12841,9 +12802,6 @@
 }, {
   "name" : "Miao Miao Xiao Juchang 2nd Season",
   "ids" : [ 62059 ]
-}, {
-  "name" : "Michinaru Hirogaru",
-  "ids" : [ 63377 ]
 }, {
   "name" : "Mignon",
   "ids" : [ 49430, 65193 ]
@@ -12926,9 +12884,6 @@
   "name" : "Mu Ling Baobei",
   "ids" : [ 44469, 44470, 44471, 44472 ]
 }, {
-  "name" : "Mugamuchu",
-  "ids" : [ 65277 ]
-}, {
   "name" : "Mujintou Monogatari X",
   "ids" : [ 3983, 5190 ]
 }, {
@@ -13009,9 +12964,6 @@
 }, {
   "name" : "Netorareta Bakunyuu Tsuma-tachi",
   "ids" : [ 61788, 64405 ]
-}, {
-  "name" : "Never Gonna Give You Up",
-  "ids" : [ 63870 ]
 }, {
   "name" : "The Bloody Mary",
   "ids" : [ 63939, 65347 ]
@@ -13123,9 +13075,6 @@
 }, {
   "name" : "12393",
   "ids" : [ 12393 ]
-}, {
-  "name" : "Oyatsushiba",
-  "ids" : [ 65425 ]
 }, {
   "name" : "Pac-Maniac 45",
   "ids" : [ 61890 ]
@@ -13319,6 +13268,9 @@
   "name" : "Romi Xiong Yu Dami Tu",
   "ids" : [ 47929, 53776 ]
 }, {
+  "name" : "Roubai",
+  "ids" : [ 65481 ]
+}, {
   "name" : "Rubi Yoyo Jiaoyu Xilie: Kuaile Chengzhang",
   "ids" : [ 44349, 45660, 45661, 45662, 45664, 45667, 45668, 45676 ]
 }, {
@@ -13381,9 +13333,6 @@
 }, {
   "name" : "Sazae-san Gyousei Service wo Shiru! Josei Kenshin no Gomennai hen",
   "ids" : [ 62827 ]
-}, {
-  "name" : "Scenario",
-  "ids" : [ 59168 ]
 }, {
   "name" : "Sealook",
   "ids" : [ 59728, 64579 ]
@@ -13610,6 +13559,9 @@
   "name" : "Sugai-kun to Kazoku Ishi The Movie",
   "ids" : [ 3575, 35331 ]
 }, {
+  "name" : "SUGAR FLAVOR",
+  "ids" : [ 65505 ]
+}, {
   "name" : "Suicide Squad x Taka no Tsume",
   "ids" : [ 53222 ]
 }, {
@@ -13684,9 +13636,6 @@
 }, {
   "name" : "Tegong Tu: Xin De Maoxian",
   "ids" : [ 46755, 46756 ]
-}, {
-  "name" : "Tekken! Yurutto Cartoon",
-  "ids" : [ 64793 ]
 }, {
   "name" : "Tenchi Muyou! Ryououki: Heianmuyo! Picture Drama",
   "ids" : [ 40779 ]
@@ -13826,6 +13775,9 @@
   "name" : "Ultraman Kids no Shouboutai",
   "ids" : [ 39309 ]
 }, {
+  "name" : "Unhappy Light",
+  "ids" : [ 65504 ]
+}, {
   "name" : "UP Miao Zhiwu Kepu",
   "ids" : [ 44473, 44474 ]
 }, {
@@ -13834,6 +13786,9 @@
 }, {
   "name" : "Usaband",
   "ids" : [ 32639, 38353 ]
+}, {
+  "name" : "Utagoe wa Kimi Iro",
+  "ids" : [ 65503 ]
 }, {
   "name" : "Utatte Asobou! Yukai na Ekaki Uta: Hajimete-hen",
   "ids" : [ 52339, 52340 ]
@@ -14095,6 +14050,9 @@
 }, {
   "name" : "Yiqing Qijian de Feitian Gou",
   "ids" : [ 60236, 60237 ]
+}, {
+  "name" : "Yorunite",
+  "ids" : [ 65502 ]
 }, {
   "name" : "You Shen Me",
   "ids" : [ 44573, 44574 ]
